@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* applies top nav bar*/
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -19,6 +21,8 @@ h1 {
     display: inline-block;
     font-size: 48px;
 }
+
+/* changes part of the word Horiseon*/
 
 .seo {
     color: #d9dcd6;
@@ -50,6 +54,8 @@ p {
     font-size: 16px;
 }
 
+/*sets up large picture for background*/
+
 .hero {
     height: 800px;
     width: 100%;
@@ -68,6 +74,8 @@ p {
     float: right;
     margin-left: 25px;
 }
+
+/*rest of css dictates color of text, background, placement, and sizing of remaining content*/
 
 benefits {
     margin-right: 20px;
