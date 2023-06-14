@@ -18,6 +18,6 @@ Git flow from building code locally to publishing a page and all the steps in be
 
 ## Published Page using updated code
 
-https://kmstephens437.github.io/homework-challenge-1/
-ddef2f85eed9371dec639e4f02d00a4795d60a7f
+[https://kmstephens437.github.io/homework-challenge-1/
+ddef2f85eed9371dec639e4f02d00a4795d60a7f](https://kmstephens437.github.io/homework-challenge-1/)
 
